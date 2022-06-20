@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import FirstPageVueCli from './FirstPageVueCli.vue'
+import FirstPageVueCli from './components/FirstPageVueCli.vue'
 
 
 export default {
